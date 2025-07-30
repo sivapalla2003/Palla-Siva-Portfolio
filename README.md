@@ -107,9 +107,6 @@ AI & Data Science Enthusiast | Prompt Engineer | Full-stack Learner
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
